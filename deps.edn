@@ -1,0 +1,11 @@
+{:paths ["src/main/clojure"]
+ :deps
+  {org.clojure/clojure {:mvn/version "1.11.1"}
+   org.lwjgl/lwjgl$natives-windows {:mvn/version "3.3.2"}
+   org.lwjgl/lwjgl-assimp$natives-windows {:mvn/version "3.3.2"}
+   org.lwjgl/lwjgl-glfw$natives-windows {:mvn/version "3.3.2"}
+   org.lwjgl/lwjgl-openal$natives-windows {:mvn/version "3.3.2"}
+   org.lwjgl/lwjgl-stb$natives-windows {:mvn/version "3.3.2"}
+   org.lwjgl/lwjgl-vulkan {:mvn/version "3.3.2"}
+   org.lwjgl/lwjgl-shaderc$natives-windows {:mvn/version "3.3.2"}
+   org.joml/joml {:mvn/version "1.9.2"}}}
